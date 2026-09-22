@@ -4,8 +4,8 @@ Cybersecurity Enthusiast | Penetration Tester | CTF Player
 
 Cyber Security student/enthusiast specializing in web application penetration testing, network vulnerability assessment, and privilege escalation. Experienced in applying ethical hacking methodologies, identifying vulnerabilities such as XSS, CSRF, and LFI, and exploiting legacy systems or misconfigurations. Passionate about solving HackTheBox machines and constantly improving red teaming skills.
 
-Technical Skills
 
+## Technical Skills :
 Vulnerability Assessment & Exploitation: Web Application Security (XSS, CSRF, LFI, Session Hijacking), Network Enumeration, Linux Privilege Escalation.
 
 Security & Pentesting Tools: Nmap, Burp Suite, Netcat, ike-scan, SSH.
@@ -16,8 +16,7 @@ Methodologies & Standards: OWASP Top 10, CVE Research & Exploitation (e.g., CVE-
 
 Operating Systems & Analysis: Kali Linux, Ubuntu, Windows.
 
-Featured Projects
-
+## Featured Projects
 HackTheBox (HTB) Laboratory Penetration Testing
 
 Performed systematic network and web application enumeration to obtain initial access (User Shell).
@@ -58,8 +57,6 @@ Implemented self-balancing AVL Tree algorithms in C for efficient binary search 
 
 Get in Touch
 
-LinkedIn: Your LinkedIn URL
+LinkedIn: https://www.linkedin.com/in/rizky-pangestu-a56a8a38a/
 
-HackTheBox: Your HTB Profile Link
-
-Email: your.email@example.com
+Email: RizkyPangestu013@gmail.com
