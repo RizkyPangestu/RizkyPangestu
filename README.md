@@ -33,7 +33,7 @@ Leveraged a Cross-Site Request Forgery (CSRF) vulnerability utilizing a persiste
 
 Achieved Local File Inclusion (LFI) to read sensitive system files utilizing PHP filter chains (php://filter).
 
-Link: [Read the full HTB Guardian Write-up here]
+Link: [Read the full HTB Guardian Write-up here](https://github.com/RizkyPangestu/Write-Up-HTB/blob/main/HTB-Guardian-Write%20up.docx)
 
 2. HTB - Expressway (Easy / Linux)
 
