@@ -16,7 +16,7 @@ Methodologies & Standards: OWASP Top 10, CVE Research & Exploitation (e.g., CVE-
 
 Operating Systems & Analysis: Kali Linux, Ubuntu, Windows.
 
-## Featured Projects
+## Featured Projects :
 HackTheBox (HTB) Laboratory Penetration Testing
 
 Performed systematic network and web application enumeration to obtain initial access (User Shell).
