@@ -2,7 +2,7 @@
 
 Cybersecurity Enthusiast | Penetration Tester | CTF Player
 
-Cyber Security student/enthusiast specializing in web application penetration testing, network vulnerability assessment, and privilege escalation. Experienced in applying ethical hacking methodologies, identifying vulnerabilities such as XSS, CSRF, and LFI, and exploiting legacy systems or misconfigurations. Passionate about solving HackTheBox machines and constantly improving red teaming skills.
+Cyber Security student/enthusiast specializing in web application penetration testing, network vulnerability assessment, and privilege escalation. Experienced in applying ethical hacking methodologies, identifying vulnerabilities such as XSS, CSRF, and LFI, and exploiting legacy systems or misconfigurations. Passionate about solving HackTheBox machines and constantly improving red teaming skills. Current learning about secure programming.
 
 
 ## Technical Skills :
