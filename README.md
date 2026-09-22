@@ -47,15 +47,16 @@ Successfully escalated privileges to root by exploiting a known vulnerability in
 
 Link: Read the full HTB Expressway Write-up here
 
-Computational Data Systems & Python Scripting
+## Computational Data Systems & Python Scripting :
 
-Developed custom Python scripts for sequential data parsing and visualization using Biopython and Matplotlib.
+1. Developed custom Python scripts for sequential data parsing and visualization using Biopython and Matplotlib.
 
-Designed MariaDB/MySQL database schemas incorporating complex table joins, dynamic aggregations, and string manipulation functions.
+2. Designed MariaDB/MySQL database schemas incorporating complex table joins, dynamic aggregations, and string manipulation functions.
 
-Implemented self-balancing AVL Tree algorithms in C for efficient binary search operations.
+3. Implemented self-balancing AVL Tree algorithms in C for efficient binary search operations.
 
-Get in Touch
+
+## Get in Touch
 
 LinkedIn: https://www.linkedin.com/in/rizky-pangestu-a56a8a38a/
 
