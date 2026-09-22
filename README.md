@@ -45,7 +45,7 @@ Cracked IKE Pre-Shared Keys (PSK) using psk-crack and the rockyou wordlist to ga
 
 Successfully escalated privileges to root by exploiting a known vulnerability in sudo version 1.9.17 (CVE-2025-32463) using a custom bash exploit script.
 
-Link: [Read the full HTB Expressway Write-up here] (https://github.com/RizkyPangestu/Write-Up-HTB/blob/main/HTB%20-%20Expressway%20Write%20Up.docx)
+Link: [Read the full HTB Expressway Write-up here](https://github.com/RizkyPangestu/Write-Up-HTB/blob/main/HTB%20-%20Expressway%20Write%20Up.docx)
 
 ## Computational Data Systems & Python Scripting :
 
