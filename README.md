@@ -60,4 +60,4 @@ Link: [Read the full HTB Expressway Write-up here](https://github.com/RizkyPange
 
 LinkedIn: https://www.linkedin.com/in/rizky-pangestu-a56a8a38a/
 
-Email: RizkyPangestu013@gmail.com
+Email: rizkypangestu013@gmail.com
